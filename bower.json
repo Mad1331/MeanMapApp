@@ -1,0 +1,20 @@
+{
+  "name": "PenPalMapApp",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Michael A Diaz <mad1331@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular-holderjs": "~1.1.0",
+    "angular-route": "1.4.6",
+    "angularjs-geolocation": "0.1.1",
+    "bootstrap": "3.3.5",
+    "holderjs": "~2.9.1",
+    "modernizr": "3.0.0",
+    "jquery": "~2.2.0"
+  }
+}
